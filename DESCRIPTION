@@ -10,3 +10,5 @@ ByteCompile: true
 RoxygenNote: 6.0.1
 Imports: 
     tibble
+URL: https://github.com/jonocarroll/itdepends
+BugReports: https://github.com/jonocarroll/itdepends/issues
