@@ -1,0 +1,23 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+library(itdepends)
+```
+# itdepends
+
+Is it sufficient to specify `Imports: tibble` in order to have `print.tbl_df` available for a stored data object? It appears not.
+
+```{r}
+data_tibble
+```
+
