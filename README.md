@@ -3,8 +3,8 @@
 
 # itdepends
 
-Does the data load correctly if we specify `Depends: tibble`? It appears
-so.
+Does the data load correctly if we specify `Imports: tibble` and
+*explicitly* import in the documentation for the data? It appears so.
 
 ``` r
 data_tibble

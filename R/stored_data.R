@@ -4,4 +4,5 @@
 #'
 #' @md
 #' @docType data
+#' @import tibble
 "data_tibble"
