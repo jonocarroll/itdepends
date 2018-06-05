@@ -15,7 +15,7 @@ library(itdepends)
 ```
 # itdepends
 
-Is it sufficient to specify `Imports: tibble` in order to have `print.tbl_df` available for a stored data object? It appears not.
+Does the data load correctly if we specify `Depends: tibble`? It appears so.
 
 ```{r}
 data_tibble
