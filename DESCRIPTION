@@ -1,9 +1,9 @@
 Package: itdepends
 Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
-Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
-License: What license it uses
+Title: Is It Sufficient To Use Imports?
+Description: Stored data in the form of a tibble, with only tibble as Import.
+Authors@R: person("Jonathan", "Carroll", , "rpkg@jcarroll.com.au", c("aut", "cre"))
+License: GPL (>=2)
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
